@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -144,12 +144,12 @@ TextureImporter:
       name: PaladinGreySheet_0
       rect:
         serializedVersion: 2
-        x: 113
-        y: 602
-        width: 112
-        height: 87
+        x: 0
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,12 +165,12 @@ TextureImporter:
       name: PaladinGreySheet_1
       rect:
         serializedVersion: 2
-        x: 362
-        y: 602
-        width: 112
-        height: 87
+        x: 249
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,12 +186,12 @@ TextureImporter:
       name: PaladinGreySheet_2
       rect:
         serializedVersion: 2
-        x: 608
-        y: 602
-        width: 115
-        height: 87
+        x: 498
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: PaladinGreySheet_3
       rect:
         serializedVersion: 2
-        x: 856
-        y: 602
-        width: 116
-        height: 86
+        x: 747
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: PaladinGreySheet_4
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 602
-        width: 118
-        height: 85
+        x: 996
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: PaladinGreySheet_5
       rect:
         serializedVersion: 2
-        x: 1354
-        y: 602
-        width: 116
-        height: 85
+        x: 1245
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,12 +270,12 @@ TextureImporter:
       name: PaladinGreySheet_6
       rect:
         serializedVersion: 2
-        x: 113
-        y: 502
-        width: 112
-        height: 86
+        x: 0
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: PaladinGreySheet_7
       rect:
         serializedVersion: 2
-        x: 362
-        y: 502
-        width: 112
-        height: 86
+        x: 249
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: PaladinGreySheet_8
       rect:
         serializedVersion: 2
-        x: 633
-        y: 504
-        width: 100
-        height: 91
+        x: 498
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,12 +333,12 @@ TextureImporter:
       name: PaladinGreySheet_9
       rect:
         serializedVersion: 2
-        x: 888
-        y: 504
-        width: 95
-        height: 93
+        x: 747
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -354,12 +354,12 @@ TextureImporter:
       name: PaladinGreySheet_10
       rect:
         serializedVersion: 2
-        x: 1138
-        y: 504
-        width: 93
-        height: 94
+        x: 996
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: PaladinGreySheet_11
       rect:
         serializedVersion: 2
-        x: 1388
-        y: 504
-        width: 88
-        height: 84
+        x: 1245
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -396,12 +396,12 @@ TextureImporter:
       name: PaladinGreySheet_12
       rect:
         serializedVersion: 2
-        x: 20
-        y: 403
-        width: 221
-        height: 85
+        x: 0
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,12 +417,12 @@ TextureImporter:
       name: PaladinGreySheet_13
       rect:
         serializedVersion: 2
-        x: 265
-        y: 403
-        width: 217
-        height: 86
+        x: 249
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -438,12 +438,12 @@ TextureImporter:
       name: PaladinGreySheet_14
       rect:
         serializedVersion: 2
-        x: 513
-        y: 403
-        width: 218
-        height: 90
+        x: 498
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -459,12 +459,12 @@ TextureImporter:
       name: PaladinGreySheet_15
       rect:
         serializedVersion: 2
-        x: 763
-        y: 403
-        width: 217
-        height: 87
+        x: 747
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -480,12 +480,12 @@ TextureImporter:
       name: PaladinGreySheet_16
       rect:
         serializedVersion: 2
-        x: 1105
-        y: 404
-        width: 111
-        height: 82
+        x: 996
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -501,12 +501,12 @@ TextureImporter:
       name: PaladinGreySheet_17
       rect:
         serializedVersion: 2
-        x: 1360
-        y: 402
-        width: 109
-        height: 86
+        x: 1245
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -522,12 +522,12 @@ TextureImporter:
       name: PaladinGreySheet_18
       rect:
         serializedVersion: 2
-        x: 113
-        y: 302
-        width: 112
-        height: 87
+        x: 0
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -543,12 +543,12 @@ TextureImporter:
       name: PaladinGreySheet_19
       rect:
         serializedVersion: 2
-        x: 364
-        y: 307
-        width: 86
-        height: 80
+        x: 249
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -564,12 +564,12 @@ TextureImporter:
       name: PaladinGreySheet_20
       rect:
         serializedVersion: 2
-        x: 609
-        y: 307
-        width: 89
-        height: 81
+        x: 498
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -585,12 +585,12 @@ TextureImporter:
       name: PaladinGreySheet_21
       rect:
         serializedVersion: 2
-        x: 860
-        y: 307
-        width: 86
-        height: 81
+        x: 747
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -606,12 +606,12 @@ TextureImporter:
       name: PaladinGreySheet_22
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 302
-        width: 112
-        height: 87
+        x: 996
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -627,12 +627,12 @@ TextureImporter:
       name: PaladinGreySheet_23
       rect:
         serializedVersion: 2
-        x: 1358
-        y: 341
-        width: 11
-        height: 14
+        x: 1245
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -648,12 +648,12 @@ TextureImporter:
       name: PaladinGreySheet_24
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 302
-        width: 110
-        height: 94
+        x: 0
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -669,12 +669,12 @@ TextureImporter:
       name: PaladinGreySheet_25
       rect:
         serializedVersion: 2
-        x: 129
-        y: 202
-        width: 109
-        height: 94
+        x: 249
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -690,12 +690,12 @@ TextureImporter:
       name: PaladinGreySheet_26
       rect:
         serializedVersion: 2
-        x: 362
-        y: 202
-        width: 127
-        height: 94
+        x: 498
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -711,12 +711,12 @@ TextureImporter:
       name: PaladinGreySheet_27
       rect:
         serializedVersion: 2
-        x: 612
-        y: 202
-        width: 127
-        height: 94
+        x: 747
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -732,12 +732,12 @@ TextureImporter:
       name: PaladinGreySheet_28
       rect:
         serializedVersion: 2
-        x: 867
-        y: 202
-        width: 122
-        height: 94
+        x: 996
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -753,12 +753,12 @@ TextureImporter:
       name: PaladinGreySheet_29
       rect:
         serializedVersion: 2
-        x: 1118
-        y: 202
-        width: 121
-        height: 92
+        x: 1245
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -774,12 +774,12 @@ TextureImporter:
       name: PaladinGreySheet_30
       rect:
         serializedVersion: 2
-        x: 1364
-        y: 264
-        width: 15
-        height: 21
+        x: 0
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -795,12 +795,12 @@ TextureImporter:
       name: PaladinGreySheet_31
       rect:
         serializedVersion: 2
-        x: 1375
-        y: 202
-        width: 115
-        height: 93
+        x: 249
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -816,12 +816,12 @@ TextureImporter:
       name: PaladinGreySheet_32
       rect:
         serializedVersion: 2
-        x: 114
-        y: 242
-        width: 17
-        height: 16
+        x: 498
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -837,12 +837,12 @@ TextureImporter:
       name: PaladinGreySheet_33
       rect:
         serializedVersion: 2
-        x: 119
-        y: 172
-        width: 6
-        height: 11
+        x: 747
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -858,12 +858,12 @@ TextureImporter:
       name: PaladinGreySheet_34
       rect:
         serializedVersion: 2
-        x: 127
-        y: 181
-        width: 6
-        height: 5
+        x: 996
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -879,12 +879,12 @@ TextureImporter:
       name: PaladinGreySheet_35
       rect:
         serializedVersion: 2
-        x: 130
-        y: 102
-        width: 112
-        height: 93
+        x: 1245
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -900,12 +900,12 @@ TextureImporter:
       name: PaladinGreySheet_36
       rect:
         serializedVersion: 2
-        x: 379
-        y: 102
-        width: 113
-        height: 93
+        x: 0
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -921,12 +921,12 @@ TextureImporter:
       name: PaladinGreySheet_37
       rect:
         serializedVersion: 2
-        x: 628
-        y: 102
-        width: 108
-        height: 93
+        x: 249
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -942,12 +942,12 @@ TextureImporter:
       name: PaladinGreySheet_38
       rect:
         serializedVersion: 2
-        x: 877
-        y: 102
-        width: 108
-        height: 93
+        x: 498
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -963,12 +963,12 @@ TextureImporter:
       name: PaladinGreySheet_39
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 102
-        width: 116
-        height: 93
+        x: 747
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -976,216 +976,6 @@ TextureImporter:
       bones: []
       spriteID: 6687e5c8c78e8ad44bf09ee374cdcfa7
       internalID: 188115777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_40
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 102
-        width: 213
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb463519600206a458b642dcedf82ff5
-      internalID: 1816567806
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_41
-      rect:
-        serializedVersion: 2
-        x: 737
-        y: 149
-        width: 8
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e1bd2c43e62a534fbb70ba872fc1fcd
-      internalID: -459364730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_42
-      rect:
-        serializedVersion: 2
-        x: 987
-        y: 161
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13ce40b91596e1c4c937d62e3f8c358a
-      internalID: -1303289773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_43
-      rect:
-        serializedVersion: 2
-        x: 990
-        y: 149
-        width: 5
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 140158f60389c074d9b55cd95b88f6bd
-      internalID: -805582271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_44
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 46
-        width: 31
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ee11ba243621c445a81dd983b2ddf68
-      internalID: -1425743075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_45
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 2
-        width: 211
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97b5eb359c1b0774c9062b66efe471d7
-      internalID: 1327929246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_46
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 2
-        width: 227
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6713df8066f46c4429a14d3fba098366
-      internalID: 1227233929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_47
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 2
-        width: 192
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1355e6af7063454c81f210b17607c30
-      internalID: -888936848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_48
-      rect:
-        serializedVersion: 2
-        x: 847
-        y: 5
-        width: 111
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c106e432a5ef3ca438909a1c39eb7464
-      internalID: -1553499894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PaladinGreySheet_49
-      rect:
-        serializedVersion: 2
-        x: 514
-        y: 1
-        width: 34
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91fa2185f0a02db4ba529b4dedaae8f7
-      internalID: 2026422411
       vertices: []
       indices: 
       edges: []
@@ -1236,16 +1026,6 @@ TextureImporter:
       PaladinGreySheet_38: 1832029120
       PaladinGreySheet_39: 188115777
       PaladinGreySheet_4: 788834623
-      PaladinGreySheet_40: 1816567806
-      PaladinGreySheet_41: -459364730
-      PaladinGreySheet_42: -1303289773
-      PaladinGreySheet_43: -805582271
-      PaladinGreySheet_44: -1425743075
-      PaladinGreySheet_45: 1327929246
-      PaladinGreySheet_46: 1227233929
-      PaladinGreySheet_47: -888936848
-      PaladinGreySheet_48: -1553499894
-      PaladinGreySheet_49: 2026422411
       PaladinGreySheet_5: 675161144
       PaladinGreySheet_6: 1551440535
       PaladinGreySheet_7: -264123174

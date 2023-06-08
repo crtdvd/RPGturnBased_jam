@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -141,832 +141,832 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite-sheet-249x100_0
+      name: PaladinRedSheet_0
       rect:
         serializedVersion: 2
-        x: 113
-        y: 602
-        width: 112
-        height: 87
+        x: 0
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7afd41975571fc9469ccdcdcb47c8db0
-      internalID: 1074189579
+      spriteID: e65323f18ad137e4c87d6903ac8c28f3
+      internalID: 1620911208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_1
+      name: PaladinRedSheet_1
       rect:
         serializedVersion: 2
-        x: 362
-        y: 602
-        width: 112
-        height: 87
+        x: 249
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86ed81c630cfd6546a5257b39b8e60a2
-      internalID: 1009815532
+      spriteID: 2b6ea0b758ad6c34b85e7b0c3839e664
+      internalID: 1617300523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_2
+      name: PaladinRedSheet_2
       rect:
         serializedVersion: 2
-        x: 608
-        y: 602
-        width: 115
-        height: 87
+        x: 498
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66dcd70ed8d34ba4ea95e3ab38a5b1ce
-      internalID: 2015934294
+      spriteID: 24a452201ca43bc4da74b9e2ad8245fa
+      internalID: 526510224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_3
+      name: PaladinRedSheet_3
       rect:
         serializedVersion: 2
-        x: 856
-        y: 602
-        width: 116
-        height: 86
+        x: 747
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aeb1560cba40abf4db5624f071004b12
-      internalID: -1564473857
+      spriteID: 68d0189c46da8724c80eb4981ccaad45
+      internalID: 99333015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_4
+      name: PaladinRedSheet_4
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 602
-        width: 118
-        height: 85
+        x: 996
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2863fbb5993e7948af7ae9aaf80db86
-      internalID: -1795120732
+      spriteID: e41b9a258170e454da96beb2a50acf2b
+      internalID: 2068343717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_5
+      name: PaladinRedSheet_5
       rect:
         serializedVersion: 2
-        x: 1354
-        y: 602
-        width: 116
-        height: 85
+        x: 1245
+        y: 600
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c317160e35c5a674ab29bc167bb6c85b
-      internalID: -1936790558
+      spriteID: ce964523afaa35749ace22f0baa4c0e6
+      internalID: 752858512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_6
+      name: PaladinRedSheet_6
       rect:
         serializedVersion: 2
-        x: 113
-        y: 502
-        width: 112
-        height: 86
+        x: 0
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d7b76f376df57940ac48a3735fdd187
-      internalID: 791587942
+      spriteID: eb2678be220ca9848a55a917c2ea5160
+      internalID: -1709801920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_7
+      name: PaladinRedSheet_7
       rect:
         serializedVersion: 2
-        x: 362
-        y: 502
-        width: 112
-        height: 86
+        x: 249
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3335c2940e884247a595f5ae51e3a38
-      internalID: 782002599
+      spriteID: ae7379677fe8941428dcd37732833650
+      internalID: 910589780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_8
+      name: PaladinRedSheet_8
       rect:
         serializedVersion: 2
-        x: 633
-        y: 504
-        width: 100
-        height: 91
+        x: 498
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e74dc530f2faa844a62ce48ef428b9f
-      internalID: -387903590
+      spriteID: 628f81718a0247547b8109b40930409a
+      internalID: -1007604235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_9
+      name: PaladinRedSheet_9
       rect:
         serializedVersion: 2
-        x: 888
-        y: 504
-        width: 95
-        height: 93
+        x: 747
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94c3cd548db3f934fb5df135c11309db
-      internalID: -128816478
+      spriteID: 059f0c86d896cdd47a9b2db9f0a6c1c6
+      internalID: -1568409527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_10
+      name: PaladinRedSheet_10
       rect:
         serializedVersion: 2
-        x: 1138
-        y: 504
-        width: 93
-        height: 94
+        x: 996
+        y: 500
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63a8e46ebeeeb794ea467980f2147d5e
-      internalID: -717212708
+      spriteID: 46d78a5318c9eba489b97adc4110f002
+      internalID: 139426145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_11
+      name: PaladinRedSheet_11
       rect:
         serializedVersion: 2
-        x: 1388
-        y: 504
-        width: 88
-        height: 84
+        x: 1245
+        y: 501
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e67003735a8ea764bbc2525d271980c1
-      internalID: 102989774
+      spriteID: 623edf67455f95d458ff41b852ee171a
+      internalID: -1729195986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_12
+      name: PaladinRedSheet_12
       rect:
         serializedVersion: 2
-        x: 20
-        y: 403
-        width: 221
-        height: 85
+        x: 0
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38316987caf64814dbbd04d788f87c32
-      internalID: -1270709502
+      spriteID: 09fbcc70a47987441bc29d0e193ac379
+      internalID: 1282327190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_13
+      name: PaladinRedSheet_13
       rect:
         serializedVersion: 2
-        x: 265
-        y: 403
-        width: 217
-        height: 86
+        x: 249
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6f8736fb80fac0479d836e2d5876c00
-      internalID: 793103051
+      spriteID: 394615ca43cfee94b8dc98f9d82f596c
+      internalID: -1869648015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_14
+      name: PaladinRedSheet_14
       rect:
         serializedVersion: 2
-        x: 513
-        y: 403
-        width: 218
-        height: 90
+        x: 498
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5333cd43a42609e428f50c8deddbde9f
-      internalID: -19958457
+      spriteID: 57e73c5102df38a4db674e0f844ffeed
+      internalID: -949313816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_15
+      name: PaladinRedSheet_15
       rect:
         serializedVersion: 2
-        x: 763
-        y: 403
-        width: 217
-        height: 87
+        x: 747
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8d82be3af7c819469f6ef67f849c457
-      internalID: 96619607
+      spriteID: 5d66369d3313dd346a61aa2ef477ef6e
+      internalID: -2040866845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_16
+      name: PaladinRedSheet_16
       rect:
         serializedVersion: 2
-        x: 1105
-        y: 404
-        width: 111
-        height: 82
+        x: 996
+        y: 400
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca172ae8632b89748b9ea03fb02785a7
-      internalID: 662439033
+      spriteID: c5b54411043e28f43b6272580e69a4fb
+      internalID: 829680995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_17
+      name: PaladinRedSheet_17
       rect:
         serializedVersion: 2
-        x: 1360
-        y: 402
-        width: 109
-        height: 86
+        x: 1245
+        y: 401
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cac3426188a96774089f63f6f59d7b2c
-      internalID: -2062446197
+      spriteID: d663dfb3b3f7c294c9196b60a37b5ea5
+      internalID: 2117505316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_18
+      name: PaladinRedSheet_18
       rect:
         serializedVersion: 2
-        x: 113
-        y: 302
-        width: 112
-        height: 87
+        x: 0
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72eb155d6e6ff3b4692746c0bd6d3439
-      internalID: 265381240
+      spriteID: e6dfafcf5a1248d4d8b1783fb76619cc
+      internalID: -517030231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_19
+      name: PaladinRedSheet_19
       rect:
         serializedVersion: 2
-        x: 364
-        y: 307
-        width: 86
-        height: 80
+        x: 249
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32759ca37bfbe1b41b349c71858a636c
-      internalID: -1429699243
+      spriteID: 68cb4d209fa187040a8a8c617a8a873a
+      internalID: -1849112888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_20
+      name: PaladinRedSheet_20
       rect:
         serializedVersion: 2
-        x: 609
-        y: 307
-        width: 89
-        height: 81
+        x: 498
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d616d420b1a8894bbd981cc2e04f03c
-      internalID: -1978080836
+      spriteID: 3f80ae8eeb459f342a8961e834911d9e
+      internalID: -1526175800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_21
+      name: PaladinRedSheet_21
       rect:
         serializedVersion: 2
-        x: 860
-        y: 307
-        width: 86
-        height: 81
+        x: 747
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1462dd61e5c0634b929df84aea76c62
-      internalID: 1810045485
+      spriteID: 5594f0e0255ed6342a23447cbf7357f0
+      internalID: -1341408326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_22
+      name: PaladinRedSheet_22
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 302
-        width: 112
-        height: 87
+        x: 996
+        y: 300
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 976773cb7ded75b4e91db6b590aba780
-      internalID: 185093709
+      spriteID: d5e5d70fabd418e4995f465ffd35b9ab
+      internalID: 21441145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_23
+      name: PaladinRedSheet_23
       rect:
         serializedVersion: 2
-        x: 1358
-        y: 341
-        width: 11
-        height: 14
+        x: 0
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26a4d08f7bb1c7e4396fc48a76c930e1
-      internalID: -1321442603
+      spriteID: 9bb85eec765997949a4826f603b6869f
+      internalID: 1149426471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_24
+      name: PaladinRedSheet_24
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 302
-        width: 110
-        height: 94
+        x: 249
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e0e3b723c324da41bcd718ae8a14232
-      internalID: -1317673872
+      spriteID: e0558b0e5ee3b75499b366789dde3763
+      internalID: 1513014159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_25
+      name: PaladinRedSheet_25
       rect:
         serializedVersion: 2
-        x: 129
-        y: 202
-        width: 109
-        height: 94
+        x: 498
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2eea39b2474737442b4554e911b65ffd
-      internalID: -1607731163
+      spriteID: f234f52b697054140801eef0dc977a65
+      internalID: 1239992176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_26
+      name: PaladinRedSheet_26
       rect:
         serializedVersion: 2
-        x: 362
-        y: 202
-        width: 127
-        height: 94
+        x: 747
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6e121743bf2c6446bc75eec9ffbaadd
-      internalID: 216338902
+      spriteID: f5b4001576b4f0c4da5f993269f2b074
+      internalID: 1166045795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_27
+      name: PaladinRedSheet_27
       rect:
         serializedVersion: 2
-        x: 612
-        y: 202
-        width: 127
-        height: 94
+        x: 996
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ea6bc9379586fc47bb89b20b0074797
-      internalID: 1775320967
+      spriteID: 3cef605a2b093004d8fd99ed0a69c596
+      internalID: -694283124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_28
+      name: PaladinRedSheet_28
       rect:
         serializedVersion: 2
-        x: 867
-        y: 202
-        width: 122
-        height: 94
+        x: 249
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd6e4b09ebdd0d24f947e6be116c5218
-      internalID: 1324671456
+      spriteID: 47a214579b847c441829fdb39665310b
+      internalID: 1291594289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_29
+      name: PaladinRedSheet_29
       rect:
         serializedVersion: 2
-        x: 1118
-        y: 202
-        width: 121
-        height: 92
+        x: 996
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2e1907eabf6504ea2682df8a71b3c6
-      internalID: -1726099210
+      spriteID: 20b0bdd2f86533b4a9dd7e065fdfaa00
+      internalID: -1788585862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_30
+      name: PaladinRedSheet_30
       rect:
         serializedVersion: 2
-        x: 1364
-        y: 264
-        width: 15
-        height: 21
+        x: 1245
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06ae0ec9b0350c646838bff71be8ff3c
-      internalID: -1350839836
+      spriteID: bcb15a0ede9918d4f9182e2d1b4467f3
+      internalID: -410177840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_31
+      name: PaladinRedSheet_31
       rect:
         serializedVersion: 2
-        x: 1375
-        y: 202
-        width: 115
-        height: 93
+        x: 249
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9593b8a717e6b504b82983a0b5701624
-      internalID: 479908216
+      spriteID: 844380d934c4c9848be46b913719d44b
+      internalID: 1544788760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_32
+      name: PaladinRedSheet_32
       rect:
         serializedVersion: 2
-        x: 114
-        y: 242
-        width: 17
-        height: 16
+        x: 498
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28ce77384c83d184c9442773a5c61a5c
-      internalID: 302321096
+      spriteID: 6672ba4360921be4890cbbca9c208369
+      internalID: -29657191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_33
+      name: PaladinRedSheet_33
       rect:
         serializedVersion: 2
-        x: 119
-        y: 172
-        width: 6
-        height: 11
+        x: 747
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9212bebe03616b4780189b6c0d087ec
-      internalID: -606602411
+      spriteID: d4ae591393711964eb2546b36bf1531e
+      internalID: -615140768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_34
+      name: PaladinRedSheet_34
       rect:
         serializedVersion: 2
-        x: 127
-        y: 181
-        width: 6
-        height: 5
+        x: 0
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f3d370f868635c4f90f78b7d8f664f2
-      internalID: -299348431
+      spriteID: 3240df85094bf7a479942662a673bab2
+      internalID: -1340493914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_35
+      name: PaladinRedSheet_35
       rect:
         serializedVersion: 2
-        x: 130
-        y: 102
-        width: 112
-        height: 93
+        x: 1245
+        y: 301
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89c9ba1fa6d5d3d4ba79fa77978f8f02
-      internalID: 1422289396
+      spriteID: feeb0da228c81fa4a8eae39fca84f0cf
+      internalID: 267685719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_36
+      name: PaladinRedSheet_36
       rect:
         serializedVersion: 2
-        x: 379
-        y: 102
-        width: 113
-        height: 93
+        x: 1245
+        y: 200
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bac333b28d3fee340b169d02cc355404
-      internalID: 229092915
+      spriteID: 61cef77432ebbb342afba8f54e4f03bc
+      internalID: -1164223333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_37
+      name: PaladinRedSheet_37
       rect:
         serializedVersion: 2
-        x: 628
-        y: 102
-        width: 108
-        height: 93
+        x: 0
+        y: 0
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c654696a7b50af40a1f53dae7f19563
-      internalID: -532000275
+      spriteID: 25cd69353a4c7d345829fa9d962b9603
+      internalID: -941054119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_38
+      name: PaladinRedSheet_38
       rect:
         serializedVersion: 2
-        x: 877
-        y: 102
-        width: 108
-        height: 93
+        x: 747
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d0d094453ae2eb4e97187b6c6059958
-      internalID: 214241902
+      spriteID: 889be34ad7e76834a98fdf6a993fcace
+      internalID: 1262032918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-sheet-249x100_39
+      name: PaladinRedSheet_39
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 102
-        width: 116
-        height: 93
+        x: 498
+        y: 100
+        width: 249
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,218 +974,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b941ab0d21e98fe4caca4c799aef87e0
-      internalID: -1514709976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_40
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 102
-        width: 213
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e1ccaa2411908047a05478e6d5cebf7
-      internalID: -612382159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_41
-      rect:
-        serializedVersion: 2
-        x: 737
-        y: 149
-        width: 8
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 248ca7db8e268294a89926588a0ec06c
-      internalID: 666032936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_42
-      rect:
-        serializedVersion: 2
-        x: 987
-        y: 161
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 445288126e1ec5b428c91891ce74cb87
-      internalID: 590534436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_43
-      rect:
-        serializedVersion: 2
-        x: 990
-        y: 149
-        width: 5
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3dc9d2411c0b8cd4cbe7d02576ff6c0f
-      internalID: 799719869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_44
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 46
-        width: 31
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0675fbf489076e843b98c8a9542ade42
-      internalID: -1696968854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_45
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 2
-        width: 211
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 302860d75982f8b4eb114c46380478bc
-      internalID: 948593191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_46
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 2
-        width: 227
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6bdc1ea6b68e6ab449e388da9aa5366f
-      internalID: -1031168600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_47
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 2
-        width: 192
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddb9221d05040a741b366b88f75a49a4
-      internalID: 1138713579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_48
-      rect:
-        serializedVersion: 2
-        x: 847
-        y: 5
-        width: 111
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eef639b670a53234193073afe49ef357
-      internalID: 1880218130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-sheet-249x100_49
-      rect:
-        serializedVersion: 2
-        x: 514
-        y: 1
-        width: 34
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8edb03dfbc0e8c34bb6a4980783ce543
-      internalID: -192788757
+      spriteID: fe15d24670c927f48bae49bf0c61d90c
+      internalID: -166291908
       vertices: []
       indices: 
       edges: []
@@ -1201,6 +991,46 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      PaladinRedSheet_0: 1620911208
+      PaladinRedSheet_1: 1617300523
+      PaladinRedSheet_10: 139426145
+      PaladinRedSheet_11: -1729195986
+      PaladinRedSheet_12: 1282327190
+      PaladinRedSheet_13: -1869648015
+      PaladinRedSheet_14: -949313816
+      PaladinRedSheet_15: -2040866845
+      PaladinRedSheet_16: 829680995
+      PaladinRedSheet_17: 2117505316
+      PaladinRedSheet_18: -517030231
+      PaladinRedSheet_19: -1849112888
+      PaladinRedSheet_2: 526510224
+      PaladinRedSheet_20: -1526175800
+      PaladinRedSheet_21: -1341408326
+      PaladinRedSheet_22: 21441145
+      PaladinRedSheet_23: 1149426471
+      PaladinRedSheet_24: 1513014159
+      PaladinRedSheet_25: 1239992176
+      PaladinRedSheet_26: 1166045795
+      PaladinRedSheet_27: -694283124
+      PaladinRedSheet_28: 1291594289
+      PaladinRedSheet_29: -1788585862
+      PaladinRedSheet_3: 99333015
+      PaladinRedSheet_30: -410177840
+      PaladinRedSheet_31: 1544788760
+      PaladinRedSheet_32: -29657191
+      PaladinRedSheet_33: -615140768
+      PaladinRedSheet_34: -1340493914
+      PaladinRedSheet_35: 267685719
+      PaladinRedSheet_36: -1164223333
+      PaladinRedSheet_37: -941054119
+      PaladinRedSheet_38: 1262032918
+      PaladinRedSheet_39: -166291908
+      PaladinRedSheet_4: 2068343717
+      PaladinRedSheet_5: 752858512
+      PaladinRedSheet_6: -1709801920
+      PaladinRedSheet_7: 910589780
+      PaladinRedSheet_8: -1007604235
+      PaladinRedSheet_9: -1568409527
       sprite-sheet-249x100_0: 1074189579
       sprite-sheet-249x100_1: 1009815532
       sprite-sheet-249x100_10: -717212708
