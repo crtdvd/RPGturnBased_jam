@@ -10,6 +10,10 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+#superpowers-asset-packs-master folder with all the usable assets
+superpowers-asset-packs-master/
+superpowers-asset-packs-master.meta
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
