@@ -21,7 +21,7 @@ public class ActionBtn : MonoBehaviour
         if (btn.CompareTo("meleeBtn") == 0)
         {
             hero.GetComponent<FighterAction>().SelectAttack("melee");
-        } else if (btn.CompareTo("RangeBtn") == 0)
+        } else if (btn.CompareTo("rangeBtn") == 0)
         {
             hero.GetComponent<FighterAction>().SelectAttack("range");
         } else
