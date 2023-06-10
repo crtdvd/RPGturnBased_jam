@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 55a4821f9f3ed024ba64fa3c7d9d6e3e
+guid: dba142dd3e26df6428ca91f3509ae66c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,13 +141,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1-b_0
+      name: 7 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 112
-        height: 100
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85b68191f65fdbd49b3bfdd7d929a7f4
-      internalID: -358464649
+      spriteID: a32e617dc942c7a40a45909a5935f56f
+      internalID: -1845226709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1-b_1
+      name: 7 1_1
       rect:
         serializedVersion: 2
-        x: 112
+        x: 15
         y: 0
-        width: 112
-        height: 100
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 348eab25b445e9f48a09bd66b6d406a7
-      internalID: 2050124143
+      spriteID: 5ae76eaf4e07e3c4cb68138ce674c41a
+      internalID: 1263796407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1-b_2
+      name: 7 1_2
       rect:
         serializedVersion: 2
-        x: 224
+        x: 30
         y: 0
-        width: 112
-        height: 100
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb811cb41317ad24dbd96007724cc5ae
-      internalID: -1264042823
+      spriteID: 3a5c02eaa8b018f4cb205b64eef2791a
+      internalID: -942671169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1-b_3
+      name: 7 1_3
       rect:
         serializedVersion: 2
-        x: 336
+        x: 45
         y: 0
-        width: 112
-        height: 100
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 040db24ba18cc3546ab3b079f688ad0a
-      internalID: 1016645067
+      spriteID: cc93432a459376d43985a654d2f97157
+      internalID: 608824850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1-b_4
+      name: 7 1_4
       rect:
         serializedVersion: 2
-        x: 448
+        x: 60
         y: 0
-        width: 112
-        height: 100
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea65a90001dbe464686a7c0280f0af74
-      internalID: 69374688
+      spriteID: d3cfc522a91f143408708cc416fe66d6
+      internalID: -685146342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1-b_5
+      name: 7 1_5
       rect:
         serializedVersion: 2
-        x: 560
+        x: 75
         y: 0
-        width: 112
-        height: 100
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,8 +260,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08ae1fa3c6a20e943a6816ee652ca666
-      internalID: -581410299
+      spriteID: 010a3cb7bef1b2f40ac95b5a30939914
+      internalID: -1709432112
       vertices: []
       indices: 
       edges: []
@@ -277,12 +277,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      1-b_0: -358464649
-      1-b_1: 2050124143
-      1-b_2: -1264042823
-      1-b_3: 1016645067
-      1-b_4: 69374688
-      1-b_5: -581410299
+      7 1_0: -1845226709
+      7 1_1: 1263796407
+      7 1_2: -942671169
+      7 1_3: 608824850
+      7 1_4: -685146342
+      7 1_5: -1709432112
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

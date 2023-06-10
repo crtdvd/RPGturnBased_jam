@@ -26,7 +26,7 @@ public class ActionBtn : MonoBehaviour
             hero.GetComponent<FighterAction>().SelectAttack("range");
         } else
         {
-            hero.GetComponent<FighterAction>().SelectAttack("run");
+            hero.GetComponent<FighterAction>().SelectAttack("super");
         }
     }
 }

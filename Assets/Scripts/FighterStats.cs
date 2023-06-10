@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System;
+using UnityEngine.SceneManagement;
 
 public class FighterStats : MonoBehaviour, IComparable
 {
@@ -14,6 +15,8 @@ public class FighterStats : MonoBehaviour, IComparable
 
     [SerializeField]
     private GameObject magicFill;
+
+    public Canvas endCanvas;
 
     [Header("Stats")]
     public float health;
@@ -68,9 +71,21 @@ public class FighterStats : MonoBehaviour, IComparable
         if(health <= 0)
         {
             dead = true;
-            gameObject.tag = "Dead";
+            if(gameObject.tag == "Hero")
+            {
+                endCanvas.transform.Find("LooseFrame").gameObject.SetActive(true);
+                Invoke("ReturnToMap", 2);
+                
+            }
+            else if(gameObject.tag == "Enemy")
+            {   
+                endCanvas.transform.Find("WinFrame").gameObject.SetActive(true);
+                Invoke("ReturnToMap", 2);
+                
+            }
             Destroy(healthFill);
             Destroy(gameObject);
+
         } else if (damage > 0)
         {
             xNewHealthScale = healthScale.x * (health / startHealth);
@@ -82,6 +97,19 @@ public class FighterStats : MonoBehaviour, IComparable
             GameControllerObj.GetComponent<GameController>().battleText.text = damage.ToString();
         }
         Invoke("ContinueGame", 2);
+    }
+
+    private void ReturnToMap()
+    {
+        if(endCanvas.transform.Find("LooseFrame").gameObject.activeSelf){
+            
+            endCanvas.transform.Find("LooseFrame").gameObject.SetActive(false);
+        }
+        else if(endCanvas.transform.Find("Winframe").gameObject.activeSelf){
+            
+            endCanvas.transform.Find("Winframe").gameObject.SetActive(false);
+        }
+        SceneManager.LoadScene("SceneMap");
     }
 
     public void updateMagicFill(float cost)

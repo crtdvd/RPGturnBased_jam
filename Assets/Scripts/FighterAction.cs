@@ -14,6 +14,9 @@ public class FighterAction : MonoBehaviour
     private GameObject rangePrefab;
 
     [SerializeField]
+    private GameObject superPrefab;
+
+    [SerializeField]
     private Sprite faceIcon;
 
     private GameObject currentAttack;
@@ -39,7 +42,7 @@ public class FighterAction : MonoBehaviour
             rangePrefab.GetComponent<AttackScript>().Attack(victim);
         } else
         {
-            Debug.Log("Run");
+            superPrefab.GetComponent<AttackScript>().Attack(victim);
         }
     }
 }
