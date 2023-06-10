@@ -18,12 +18,14 @@ public class CameraController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        CalculateCameraPosition();
     }
 
     void CalculateCameraPosition()
     {
         int characterScreen = (int)(charater.position.y / heightScreen);
         float heightCamera = (characterScreen * heightScreen);
+
+        transform.position = new Vector3(transform.position.x, heightCamera, transform.position.z);
     }
 }

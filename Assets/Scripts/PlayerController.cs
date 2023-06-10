@@ -29,11 +29,11 @@ public class PlayerController : MonoBehaviour
         movement = new Vector2(moveHorizontal, moveVertical).normalized;
 
         // Rotar el jugador hacia la izquierda o la derecha
-        if (moveHorizontal > 0)
+        if (moveHorizontal < 0)
         {
             transform.localScale = new Vector3(-1.3094f, 1.3094f, 1.3094f);
         }
-        else if (moveHorizontal < 0)
+        else if (moveHorizontal > 0)
         {
             transform.localScale = new Vector3(1.3094f, 1.3094f, 1.3094f);
         }
